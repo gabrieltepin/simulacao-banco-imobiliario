@@ -8,6 +8,7 @@ config.py
 # Below is some common gitignores for small project
 # Temp folder
 temp/
+.DS_Store
 
 # IDE
 .vscode/
